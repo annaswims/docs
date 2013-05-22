@@ -1,14 +1,10 @@
-== Resources and Next Steps ==
-short link to this page: http://bit.ly/ruby-resources
+=== Meetups and User Groups outside of San Francisco ===
 
-== Self-Organized Study Groups ==
-* [http://www.meetup.com/Women-Who-Code-SF/events/32515272/ WWCode-Rails study group] in San Francisco meets every Tuesday. Started on Sept 27, 2011.
-  * [http://groups.google.com/group/wwcode-rails/ WWCode-Rails Mailing List]
-  * Our devchix wiki page: [[WWCode Rails]]
+* Indianapolis Ruby Brigade - http://www.meetup.com/indyrb/
 
 === Learning Ruby ===
 * [http://tryruby.org/ TryRuby] a browser-based interactive tutorial in Ruby
-* [http://www.pragprog.com/titles/ltp2/learn-to-program-2nd-edition"Learning to Program" by Chris Pine] - a beginner's programming book with lots of Ruby exercises.  (earlier version [http://pine.fm/LearnToProgram online])
+* [http://www.pragprog.com/titles/ltp2/learn-to-program-2nd-edition "Learning to Program" by Chris Pine] - a beginner's programming book with lots of Ruby exercises.  (earlier version [http://pine.fm/LearnToProgram online])
 * [http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html Why's Poignant Guide]
 * [http://hackety-hack.com/ Hackety Hack] a fun way for beginners to learn Ruby.
 * [http://rubykoans.com/ Ruby Koans] - a self-guided journey through topics in Ruby for beginners and experts alike
@@ -32,12 +28,6 @@ short link to this page: http://bit.ly/ruby-resources
 * [http://peepcode.com PeepCode]
 * [http://pivotallabs.com/talks Pivotal Labs talks]
 
-=== Classes & events in San Francisco ===
-
-* [http://www.meetup.com/sfruby/ San Francisco Ruby Meetups (we'd love to have you when you're in the area!)]
-* [http://groups.google.com/group/railsbridge-workshops RailsBridge Workshops organizing team]
-* [http://www.meetup.com/Women-Who-Code-SF/ Women Who Code meetup] (monthly hack nights & speakers)
-
 === Online ===
 
 * [http://valobox.com Valobox] -use Promocode 'RailsBridge' to read free.
@@ -53,11 +43,6 @@ short link to this page: http://bit.ly/ruby-resources
 *    Volunteer on a RailsBridge Builders project
 *    Come to a hack session
 
-=== Meetups and User Groups outside of San Francisco ===
 
-* Boulder Ruby (monthly events): http://boulderruby.org/
-* DeRailed - Denver Rails UG: http://groups.google.com/group/derailed
-* Mountain.rb (Boulder, Colorado) http://mountainrb.com
-* Chicago Ruby (beginners welcome!) http://www.meetup.com/ChicagoRuby/
 
 Check for Ruby and Rails meetups anywhere at [http://www.rubyinperson.com/ Ruby in Person]

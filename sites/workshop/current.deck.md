@@ -1,20 +1,15 @@
 <!SLIDE bullets incremental>
-# Welcome to RailsBridge #38
+# Welcome to RailsBridge #102
 * OMG
 
 <!SLIDE bullets>
 # Thank you to our lovely sponsors
-![EngineYard](img/ey_logo_rgb.png)
+* John Palmer 
+* Ahren Ewbank
+![Speakeasy](img/speakeasy_logo_01.png)
 
-<!SLIDE bullets>
-# Thank you to our lovely sponsors
-![Blazing Cloud](img/blazingcloud.png)
-![NIRD](img/nird.png)
 
-<!SLIDE bullets>
-# And thank you to Nick and Flannery!
-![Nick](img/nicksieger.jpg)
-![Flannery](img/flannery.jpg)
+
 
 <!SLIDE bullets>
 # Schedule
@@ -26,7 +21,12 @@
 * 1:00-2:15 Session 3
 * 2:30-3:30 Session 4
 * 3:30-4:00 Wrap up & final questions
-* 4:00 Grab a drink (or 2 or 3?) at ?
+* 4:00 Grab a drink at ?
+
+<!SLIDE bullets>
+# 3 Groups
+* one will go slowly through programming concepts
+* two will focus on what is different about Ruby and Rails
 
 <!SLIDE bullets>
 # Who is here?
@@ -36,10 +36,17 @@
 # Who is here?
 ![Student Experience](img/student_experience.png)
 
+<!SLIDE bullets>
+# Introducing the Volunteers
+* Name
+* What do you do?
+* Why?
+
 
 <!SLIDE bullets>
-# 3 Groups
-* one will go slowly through programming concepts
-* two will focus on what is different about Ruby and Rails
-
+# Introducing Students
+* Name 
+* What do you do?
+* What brought you here?
+* What one weird thing are you good at?
 
